@@ -2,129 +2,154 @@
   "date": "2026-11-06",
   "events": [
     {
-      "year": "447",
-      "en": "A powerful earthquake destroys large portions of the Walls of Constantinople, including 57 towers.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
       "year": "644",
-      "en": "Caliph Umar is assassinated in Mecca.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "hi": "खलीफ़ा उमर इब्न अल-ख़त्ताब की मदीना में हत्या कर दी गई; उनके दस वर्षीय खिलाफ़त काल में इस्लामी साम्राज्य अरब से फ़ारस और मिस्र तक फैल गया था।",
+      "en": "Caliph Umar ibn al-Khattab is assassinated in Medina; during his ten-year rule the Islamic state had expanded from Arabia into Persia and Egypt.",
+      "source": "Wikipedia / onthisday.com"
     },
     {
-      "year": "963",
-      "en": "Synod of Rome: Emperor Otto I calls a council at St. Peter's Basilica in Rome. Pope John XII is deposed on charges of an armed rebellion against Otto.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1429",
+      "hi": "इंग्लैंड के सात वर्षीय राजा हेनरी षष्ठम का वेस्टमिंस्टर ऐबी में राज्याभिषेक हुआ — वे इंग्लैंड के इतिहास में सबसे कम उम्र में राज्याभिषिक्त शासकों में हैं।",
+      "en": "Seven-year-old Henry VI is crowned King of England at Westminster Abbey, among the youngest monarchs ever crowned in English history.",
+      "source": "onthisday.com"
     },
     {
-      "year": "1217",
-      "en": "King Henry III of England issued the Charter of the Forest, re-establishing the rights of access of free men to royal forests.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1455",
+      "hi": "मेंज में अदालत ने जोहान फुस्ट के पक्ष में फ़ैसला सुनाया और जोहान गुटेनबर्ग का छापाखाना उन्हें सौंप दिया — यह मुद्रण क्रांति से जुड़ा पहला बड़ा मुक़दमा था।",
+      "en": "A court in Mainz rules for Johann Fust against Johann Gutenberg, handing the printing press over to Fust — the first great lawsuit of the printing revolution.",
+      "source": "Wikipedia"
     },
     {
-      "year": "1217",
-      "en": "The Charter of the Forest is sealed at St Paul's Cathedral, London by King Henry III, acting under the regency of William Marshall, 1st Earl of Pembroke which re-establishes for free men rights of access to the royal forest that had been eroded by William the Conqueror and his heirs.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1494",
+      "hi": "उस्मानी साम्राज्य के सबसे प्रसिद्ध सुल्तान सुलेमान 'द मैग्निफ़िशिएंट' का जन्म त्राबज़ोन में हुआ।",
+      "en": "Suleiman the Magnificent, the most celebrated sultan of the Ottoman Empire, is born in Trabzon.",
+      "source": "Wikipedia"
     },
     {
-      "year": "1792",
-      "en": "Battle of Jemappes in the French Revolutionary Wars.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1572",
+      "hi": "डेनमार्क के खगोलविद टाइको ब्राहे ने कैसिओपिया तारामंडल में एक नए तारे (सुपरनोवा) को दर्ज किया, जिसने 'आकाश अपरिवर्तनीय है' की सदियों पुरानी धारणा को चुनौती दी।",
+      "en": "Danish astronomer Tycho Brahe records a brilliant new star — a supernova — in Cassiopeia, challenging the centuries-old belief that the heavens are unchanging.",
+      "source": "Wikipedia"
     },
     {
-      "year": "1794",
-      "en": "French Revolutionary Wars: Two British ships were intercepted by a French squadron, leading to the French seizure of HMS Alexander.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1763",
+      "hi": "अंग्रेज़ सेना ने मीर कासिम की सेना को हराकर पटना पर क़ब्ज़ा किया, जिससे बंगाल-बिहार पर ईस्ट इंडिया कंपनी का नियंत्रण और गहरा हुआ।",
+      "en": "British troops defeat Mir Qasim's forces and capture Patna, deepening the East India Company's grip over Bengal and Bihar.",
+      "source": "Observer Voice / Wikipedia"
     },
     {
-      "year": "1856",
-      "en": "The first story from the collection Scenes of Clerical Life by the English author George Eliot was submitted for publication.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1814",
+      "hi": "सैक्सोफ़ोन के आविष्कारक एडोल्फ़ सैक्स का जन्म बेल्जियम के दिनांत में हुआ।",
+      "en": "Adolphe Sax, the inventor of the saxophone, is born in Dinant, Belgium.",
+      "source": "Wikipedia"
+    },
+    {
+      "year": "1839",
+      "hi": "भारत के अग्रणी पुरातत्वविद् और शिलालेख-विशेषज्ञ भगवानलाल इंद्राजी का जन्म जूनागढ़ में हुआ; उन्होंने गिरनार अभिलेखों के अध्ययन में अहम योगदान दिया।",
+      "en": "Bhagwanlal Indraji, among India's first professional archaeologists and epigraphists, is born in Junagadh; he did pioneering work on the Girnar inscriptions.",
+      "source": "Wikipedia"
+    },
+    {
+      "year": "1840",
+      "hi": "सिख साम्राज्य के महाराजा नौ निहाल सिंह की लाहौर में मृत्यु हुई; उनके पिता की अंत्येष्टि के बाद द्वार गिरने से हुई इस मौत के बाद साम्राज्य में उत्तराधिकार का संकट गहरा गया।",
+      "en": "Nau Nihal Singh, ruler of the Sikh Empire, dies in Lahore after a gateway collapses at his father's funeral; the empire slides into a succession crisis.",
+      "source": "Wikipedia"
+    },
+    {
+      "year": "1854",
+      "hi": "अमेरिकी मार्च-संगीत के सबसे बड़े रचनाकार जॉन फ़िलिप सूसा का जन्म वाशिंगटन डी.सी. में हुआ।",
+      "en": "John Philip Sousa, the greatest composer of American march music, is born in Washington, DC.",
+      "source": "Wikipedia"
     },
     {
       "year": "1860",
-      "en": "Abraham Lincoln is elected the 16th president of the United States with only 40% of the popular vote, defeating John C. Breckinridge, John Bell, and Stephen A. Douglas in a four-way race.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "hi": "अब्राहम लिंकन अमेरिका के 16वें राष्ट्रपति चुने गए; उनके चुनाव के बाद दक्षिणी राज्यों ने अलग होने की प्रक्रिया शुरू की, जो गृहयुद्ध में बदली।",
+      "en": "Abraham Lincoln is elected the 16th US President; Southern states begin seceding, setting the course for the Civil War.",
+      "source": "history.com"
     },
     {
-      "year": "1863",
-      "en": "American Civil War: A Union brigade defeated a Confederate force at the Battle of Droop Mountain in Pocahontas County, West Virginia.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1868",
-      "en": "Sioux Wars: Red Cloud (pictured), a Native American leader of the Oglala Lakota tribe, signed the Treaty of Fort Laramie, ending Red Cloud's War and establishing the Great Sioux Reservation.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1861",
+      "hi": "बास्केटबॉल के जनक जेम्स नाइस्मिथ का जन्म कनाडा के एल्मोंट में हुआ।",
+      "en": "James Naismith, the Canadian-born inventor of basketball, is born in Almonte, Canada.",
+      "source": "onthisday.com"
     },
     {
       "year": "1869",
-      "en": "In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "hi": "रटगर्स और प्रिंसटन के बीच खेला गया अमेरिकी फ़ुटबॉल का पहला अंतर-कॉलेज मैच; रटगर्स 6-4 से जीता।",
+      "en": "Rutgers beats Princeton 6-4 in the first intercollegiate American football game ever played.",
+      "source": "history.com"
     },
     {
-      "year": "1900",
-      "en": "President William McKinley is re-elected, along with his vice-presidential running mate, Governor Theodore Roosevelt of New York.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1888",
+      "hi": "मोहनदास गांधी लंदन के इनर टेम्पल में क़ानून की पढ़ाई के लिए दाखिल हुए — यहीं से उनका बैरिस्टर बनने का रास्ता खुला।",
+      "en": "Mohandas Gandhi is admitted to London's Inner Temple to study law, the first step towards becoming a barrister.",
+      "source": "Wikipedia"
+    },
+    {
+      "year": "1893",
+      "hi": "संगीतकार प्योत्र इलिच चाइकोवस्की का सेंट पीटर्सबर्ग में निधन हुआ, अपनी छठी सिम्फ़ोनी के प्रीमियर के केवल नौ दिन बाद।",
+      "en": "Composer Pyotr Ilyich Tchaikovsky dies in St Petersburg, nine days after premiering his Sixth Symphony.",
+      "source": "Wikipedia"
+    },
+    {
+      "year": "1913",
+      "hi": "दक्षिण अफ़्रीका में गांधी जी को पामफ़ोर्ड में गिरफ़्तार किया गया, जब वे £3 कर के विरोध में खान-मज़दूरों के जुलूस के साथ चल रहे थे।",
+      "en": "Gandhi is arrested at Palmford, South Africa, while leading striking mineworkers protesting the £3 poll tax — a defining episode of his satyagraha.",
+      "source": "Wikipedia / South African History Online"
     },
     {
       "year": "1917",
-      "en": "First World War: Canadian forces captured Passendale, Belgium, after three months of fighting against the Germans at the Battle of Passchendaele.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "hi": "रूस में बोल्शेविकों ने पेत्रोग्राद में सत्ता पर क़ब्ज़ा किया — 'अक्टूबर क्रांति' (पुराने जूलियन कैलेंडर से 25 अक्टूबर), जिसने सोवियत रूस की नींव रखी।",
+      "en": "Bolsheviks seize power in Petrograd in the October Revolution (25 October by the old Julian calendar), founding Soviet Russia.",
+      "source": "Wikipedia"
     },
     {
-      "year": "1924",
-      "en": "The Spanish anarchist group Los Solidarios unsuccessfully attempted to launch an insurrection against the dictatorship of Miguel Primo de Rivera.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1936",
-      "en": "Spanish Civil War: The republican government flees from Madrid to Valencia, leading to the formation of the Madrid Defense Council in its stead.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1939",
-      "en": "As part of their plan to eradicate the Polish intellectual elite, the Gestapo arrested 184 professors, students and employees of the Jagiellonian University (location pictured) in Kraków.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1919",
+      "hi": "रॉयल सोसाइटी और रॉयल एस्ट्रोनॉमिकल सोसाइटी की संयुक्त बैठक में आर्थर एडिंग्टन के सूर्यग्रहण अवलोकनों की घोषणा हुई, जिसने आइंस्टीन के सामान्य सापेक्षवाद सिद्धांत की पुष्टि की।",
+      "en": "Eddington's eclipse observations are announced at a joint meeting of the Royal Society and Royal Astronomical Society, confirming Einstein's general theory of relativity.",
+      "source": "Wikipedia"
     },
     {
       "year": "1943",
-      "en": "World War II: The 1st Ukrainian Front liberates Kyiv from German occupation.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1944",
-      "en": "The B Reactor at the Hanford Site in the U.S. state of Washington began producing plutonium, with the facility later going on to create more for nearly the entire American nuclear arsenal.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1947",
-      "en": "Meet the Press, the longest running television program in history, makes its debut on NBC Television.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "hi": "जापान ने अंडमान और निकोबार द्वीप समूह सुभाष चंद्र बोस की आज़ाद हिंद सरकार को सौंपे, और बोस ने इनका नया नाम 'शहीद' तथा 'स्वराज' रखा।",
+      "en": "Japan hands over the Andaman and Nicobar Islands to Subhas Chandra Bose's Azad Hind government, which renames them Shaheed and Swaraj.",
+      "source": "Wikipedia / Netaji Research Bureau"
     },
     {
       "year": "1956",
-      "en": "Following pressure by US president Eisenhower, Great Britain announces a ceasefire in the Suez crisis, one day after it landed paratroopers together with France at key locations.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1963",
-      "en": "Nguyễn Ngọc Thơ was appointed by the junta of General Dương Văn Minh to head the South Vietnamese government, five days after Minh deposed and assassinated President Ngô Đình Diệm.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1963",
-      "en": "Nguyễn Ngọc Thơ is appointed to head the South Vietnamese government by General Dương Văn Minh's junta, five days after the latter deposed and assassinated President Ngô Đình Diệm.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1971",
-      "en": "The United States Atomic Energy Commission tests the largest U.S. underground hydrogen bomb, code-named Cannikin, on Amchitka Island in the Aleutians.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "hi": "ड्वाइट आइज़नहावर दूसरी बार अमेरिकी राष्ट्रपति चुने गए, उसी दिन स्वेज संकट में संयुक्त राष्ट्र की पहल पर युद्धविराम लागू हुआ।",
+      "en": "Dwight Eisenhower is re-elected US President as a UN-brokered ceasefire takes effect in the Suez Crisis.",
+      "source": "history.com"
     },
     {
       "year": "1976",
-      "en": "Uttawar forced sterilisations: Mass vasectomy of nearly 800 men of Uttawar village, Palwal district, Haryana during India's Emergency imposed by Indira Gandhi.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "hi": "आपातकाल के दौरान हरियाणा के उटावर गांव में सामूहिक नसबंदी शिविर लगाया गया, जहाँ हज़ारों पुरुषों का ऑपरेशन किया गया; ऐसी घटनाओं ने आपातकाल के प्रति जनता का रुख़ बदल दिया।",
+      "en": "A mass sterilisation camp is held at Uttawar village in Haryana during the Emergency, where thousands of men were operated upon — such episodes turned public opinion against the Emergency.",
+      "source": "Wikipedia / India Today archives"
+    },
+    {
+      "year": "1985",
+      "hi": "दो बार राष्ट्रीय पुरस्कार विजेता अभिनेता संजीव कुमार का मुंबई में 47 वर्ष की आयु में निधन हुआ।",
+      "en": "Actor Sanjeev Kumar, a two-time National Award winner, dies in Mumbai aged 47.",
+      "source": "Wikipedia"
+    },
+    {
+      "year": "2012",
+      "hi": "बराक ओबामा मिट रोमनी को हराकर दूसरी बार अमेरिका के राष्ट्रपति चुने गए।",
+      "en": "Barack Obama defeats Mitt Romney to win a second term as US President.",
+      "source": "history.com"
+    },
+    {
+      "year": "2016",
+      "hi": "दिल्ली में घातक स्मॉग के कारण सार्वजनिक स्वास्थ्य आपातकाल घोषित किया गया, स्कूल बंद हुए और निर्माण कार्य पर रोक लगी।",
+      "en": "Delhi declares a public health emergency as smog pushes air pollution to severe levels; schools are shut and construction halted.",
+      "source": "BBC / The Hindu archives"
+    },
+    {
+      "year": "2024",
+      "hi": "डोनाल्ड ट्रंप ने कमला हैरिस को हराकर अमेरिका के 47वें राष्ट्रपति का चुनाव जीता।",
+      "en": "Donald Trump defeats Kamala Harris to win the 2024 US presidential election and become the 47th President.",
+      "source": "AP / Reuters"
     }
   ]
 }
