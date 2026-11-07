@@ -2,129 +2,154 @@
   "date": "2026-11-07",
   "events": [
     {
-      "year": "335",
-      "en": "Athanasius, 20th pope of Alexandria, is banished to Trier on the charge that he prevented a grain fleet from sailing to Constantinople.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "680",
-      "en": "The Third Council of Constantinople convened to settle the Christological controversies of monoenergism and monothelitism.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "680",
-      "en": "The Sixth Ecumenical Council commences in Constantinople.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "921",
-      "en": "Treaty of Bonn: The Frankish kings Charles the Simple and Henry the Fowler sign a peace treaty or 'pact of friendship' (amicitia) to recognize their borders along the Rhine.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1185",
-      "en": "The Byzantine army under Alexios Branas defeats the Norman army in the battle of Demetritzes and captures its leaders counts Baldwin and Richard of Acerra.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1426",
-      "en": "Lam Sơn uprising: Lam Sơn rebels emerge victorious against the Ming army in the Battle of Tốt Động – Chúc Động taking place in Đông Quan, in now Hanoi.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
       "year": "1492",
-      "en": "The Ensisheim meteorite, the oldest meteorite with a known date of impact, strikes the Earth in a wheat field outside the village of Ensisheim, Alsace, France.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1504",
-      "en": "Christopher Columbus returns from his fourth and last voyage.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1619",
-      "en": "Elizabeth Stuart is crowned Queen of Bohemia.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1659",
-      "en": "The Treaty of the Pyrenees put end to the Franco-Spanish War. The Principality of Catalonia is divided between Spain and France.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "hi": "फ्रांस के अल्सास प्रांत में एन्सिसहाइम के पास एक गेहूं के खेत पर उल्कापिंड गिरा — ज्ञात तिथि वाला यह दुनिया का सबसे पुराना उल्कापिंड है।",
+      "en": "The Ensisheim meteorite strikes a wheat field near the village of Ensisheim in Alsace, France — the oldest meteorite fall with a known date of impact.",
+      "source": "onthisday.com / Wikipedia"
     },
     {
       "year": "1665",
-      "en": "The London Gazette, the oldest surviving journal, is first published.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "hi": "दुनिया का सबसे पुराना लगातार प्रकाशित होने वाला अख़बार 'लंदन गजट' पहली बार 'ऑक्सफोर्ड गजट' के नाम से प्रकाशित हुआ।",
+      "en": "The London Gazette, the world's oldest surviving journal, is first published — as 'The Oxford Gazette'.",
+      "source": "Wikipedia"
     },
     {
-      "year": "1723",
-      "en": "O Ewigkeit, du Donnerwort, BWV 60, a dialogue cantata by Johann Sebastian Bach for Leipzig, was first performed.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1728",
+      "hi": "ब्रिटिश खोजी नाविक जेम्स कुक का जन्म हुआ, जिनकी तीन प्रशांत यात्राओं ने ऑस्ट्रेलिया और न्यूज़ीलैंड का नक्शा बदल दिया।",
+      "en": "British explorer and navigator James Cook is born; his three Pacific voyages reshaped the map of Australia and New Zealand.",
+      "source": "onthisday.com"
     },
     {
-      "year": "1775",
-      "en": "John Murray (also known as Lord Dunmore), the Royal Governor of the Colony of Virginia, starts the first mass emancipation of slaves in North America by issuing Lord Dunmore's Offer of Emancipation, which offers freedom to slaves who abandoned their colonial masters to fight with Murray and the British.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1805",
+      "hi": "लुईस और क्लार्क अभियान ने कोलंबिया नदी के मुहाने से पहली बार प्रशांत महासागर को देखा, जिससे अमेरिका के प्रशांत तट का पता चला।",
+      "en": "The Lewis and Clark Expedition first sights the Pacific Ocean at the mouth of the Columbia River, opening the American West to the coast.",
+      "source": "onthisday.com / Wikipedia"
     },
     {
-      "year": "1786",
-      "en": "The oldest musical organization in the United States is founded as the Stoughton Musical Society.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1858",
+      "hi": "स्वतंत्रता संग्राम की 'लाल-बाल-पाल' तिकड़ी के सदस्य, क्रांतिकारी पत्रकार बिपिन चंद्र पाल का जन्म सिलहट (अब बांग्लादेश) में हुआ।",
+      "en": "Bipin Chandra Pal, firebrand journalist and one of the 'Lal-Bal-Pal' trio of the freedom struggle, is born in Sylhet (now in Bangladesh).",
+      "source": "indiaonthisday.com"
     },
     {
-      "year": "1811",
-      "en": "Tecumseh's War: American forces led by William Henry Harrison defeated the forces of Shawnee leader Tecumseh's growing confederation at the Battle of Tippecanoe near present-day Battle Ground, Indiana.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1862",
+      "hi": "अंतिम मुगल सम्राट बहादुर शाह ज़फ़र का 87 वर्ष की आयु में रंगून में निधन हुआ, जहां अंग्रेज़ों ने उन्हें 1857 के विद्रोह के बाद निर्वासित कर दिया था।",
+      "en": "Bahadur Shah Zafar, the last Mughal emperor, dies aged 87 in Rangoon, where the British had exiled him after the revolt of 1857.",
+      "source": "Britannica / BBC"
     },
     {
-      "year": "1811",
-      "en": "Tecumseh's War: The Battle of Tippecanoe is fought near present-day Battle Ground, Indiana, United States.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1867",
+      "hi": "मैरी क्यूरी का जन्म हुआ — भौतिकी और रसायन विज्ञान, दोनों में नोबेल पुरस्कार पाने वाली पहली और आज तक एकमात्र वैज्ञानिक।",
+      "en": "Marie Curie is born — the first person, and still the only woman, to win Nobel Prizes in two sciences, physics and chemistry.",
+      "source": "onthisday.com"
     },
     {
-      "year": "1825",
-      "en": "Jereboam O. Beauchamp murdered Kentucky legislator Solomon P. Sharp; Beauchamp later became the first person legally executed in the state.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1875",
+      "hi": "बंकिम चंद्र चट्टोपाध्याय का देशभक्ति गीत 'वंदे मातरम्' पत्रिका बंगदर्शन में पहली बार प्रकाशित हुआ; बाद में यह भारत का राष्ट्रगीत बना।",
+      "en": "Bankim Chandra Chattopadhyay's hymn 'Vande Mataram' is first published in the journal Bangadarshan; it later became India's national song.",
+      "source": "DD News / India Today"
     },
     {
-      "year": "1837",
-      "en": "American abolitionist Elijah Parish Lovejoy was murdered by a pro-slavery mob in Alton, Illinois, during an attack to destroy his printing press and abolitionist materials.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1879",
+      "hi": "रूसी क्रांतिकारी नेता लियोन ट्रॉट्स्की का जन्म हुआ, जो लाल सेना के संस्थापक और सोवियत संघ के प्रमुख सिद्धांतकार थे।",
+      "en": "Leon Trotsky, Russian revolutionary, founder of the Red Army and a chief theorist of the Soviet state, is born.",
+      "source": "onthisday.com"
     },
     {
-      "year": "1837",
-      "en": "In Alton, Illinois, abolitionist printer Elijah P. Lovejoy is shot dead by a mob while attempting to protect his printing shop from being destroyed a third time.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1888",
+      "hi": "भौतिक विज्ञानी चंद्रशेखर वेंकट रामन का जन्म तिरुचिरापल्ली में हुआ; 'रामन प्रभाव' की खोज के लिए उन्हें 1930 का भौतिकी नोबेल मिला।",
+      "en": "Physicist Chandrasekhara Venkata Raman is born in Tiruchirappalli; his discovery of the Raman effect won him the 1930 Nobel Prize in Physics.",
+      "source": "NobelPrize.org"
     },
     {
-      "year": "1861",
-      "en": "American Civil War: Future U.S. president Ulysses S. Grant engaged in his first combat leadership role in the Battle of Belmont in Mississippi County, Missouri.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1900",
+      "hi": "स्वतंत्रता सेनानी और किसान नेता एन. जी. रंगा का जन्म हुआ, जो संविधान सभा के सदस्य और कई बार सांसद रहे।",
+      "en": "Freedom fighter and peasant leader N. G. Ranga is born; he sat in the Constituent Assembly and served many terms in Parliament.",
+      "source": "indiaonthisday.com"
     },
     {
-      "year": "1861",
-      "en": "American Civil War: Battle of Belmont: In Belmont, Missouri, Union forces led by General Ulysses S. Grant overrun a Confederate camp but are forced to retreat when Confederate reinforcements arrive.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1913",
+      "hi": "फ्रांसीसी लेखक और दार्शनिक अल्बेर कामू का जन्म हुआ, जिन्हें 1957 में साहित्य का नोबेल मिला; 'द स्ट्रेंजर' और 'द प्लेग' उनकी प्रसिद्ध कृतियां हैं।",
+      "en": "French writer and philosopher Albert Camus, author of 'The Stranger' and 'The Plague' and the 1957 Nobel laureate in literature, is born.",
+      "source": "onthisday.com"
     },
     {
-      "year": "1861",
-      "en": "The first Melbourne Cup horse race is held in Melbourne, Australia.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1917",
+      "hi": "रूस में अक्टूबर क्रांति (नई शैली की तिथि 7 नवंबर) हुई; बोल्शेविकों ने पेत्रोग्राद में सत्ता पर कब्ज़ा किया और ज़ारशाही का अंत हुआ।",
+      "en": "The October Revolution takes place in Russia (7 November by the new calendar); the Bolsheviks seize power in Petrograd, ending tsarist rule.",
+      "source": "Wikipedia"
     },
     {
-      "year": "1874",
-      "en": "A cartoon by Thomas Nast in Harper's Weekly, is considered the first important use of an elephant as a symbol for the United States Republican Party.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1929",
+      "hi": "न्यूयॉर्क में म्यूज़ियम ऑफ़ मॉडर्न आर्ट (MoMA) की पहली प्रदर्शनी खुली — वॉल स्ट्रीट क्रैश के केवल नौ दिन बाद।",
+      "en": "New York's Museum of Modern Art (MoMA) opens its first exhibition — just nine days after the Wall Street Crash.",
+      "source": "MoMA / The Guardian"
     },
     {
-      "year": "1881",
-      "en": "Mapuche uprising of 1881: Mapuche rebels destroy the Chilean settlement of Nueva Imperial after defenders fled to the hills.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1933",
+      "hi": "महात्मा गांधी ने वर्धा के सेलू गांव से अस्पृश्यता के विरुद्ध अपनी नौ महीने की अखिल भारतीय 'हरिजन यात्रा' शुरू की।",
+      "en": "Mahatma Gandhi begins his nine-month all-India 'Harijan tour' against untouchability at Selu village near Wardha.",
+      "source": "GandhiServe / The Hindu"
     },
     {
-      "year": "1885",
-      "en": "The completion of Canada's first transcontinental railway is symbolized by the Last Spike ceremony at Craigellachie, British Columbia.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1940",
+      "hi": "अमेरिका में टैकोमा नैरोज़ ब्रिज हवा में लहराते हुए ढह गया; इस दुर्घटना से पुलों के वायुगतिकीय डिज़ाइन की शिक्षा मिली।",
+      "en": "The Tacoma Narrows Bridge in the United States collapses in high wind, a disaster that transformed the aerodynamic design of bridges.",
+      "source": "onthisday.com"
+    },
+    {
+      "year": "1956",
+      "hi": "स्वेज संकट में संयुक्त राष्ट्र की पहल पर युद्धविराम लागू हुआ; ब्रिटेन, फ्रांस और इज़राइल को मिस्र से हटना पड़ा।",
+      "en": "A UN-brokered ceasefire takes effect in the Suez Crisis, forcing Britain, France and Israel to withdraw from Egypt.",
+      "source": "Wikipedia"
+    },
+    {
+      "year": "1962",
+      "hi": "अमेरिकी राष्ट्रपति फ्रैंकलिन डी. रूज़वेल्ट की पत्नी और मानवाधिकार कार्यकर्ता एलेनोर रूज़वेल्ट का निधन हुआ।",
+      "en": "Eleanor Roosevelt, human-rights campaigner and widow of US President Franklin D. Roosevelt, dies.",
+      "source": "onthisday.com"
+    },
+    {
+      "year": "1975",
+      "hi": "सुप्रीम कोर्ट ने इंदिरा गांधी की चुनावी दोषसिद्धि को सर्वसम्मति से पलट दिया; फैसला संशोधित चुनाव कानून पर आधारित था, जिसे अदालत ने वैध ठहराया।",
+      "en": "The Supreme Court unanimously reverses Prime Minister Indira Gandhi's conviction on two election offences, upholding the amended election law her government had passed.",
+      "source": "The New York Times / Indian Kanoon"
+    },
+    {
+      "year": "1990",
+      "hi": "प्रधानमंत्री वी. पी. सिंह की राष्ट्रीय मोर्चा सरकार लोकसभा में विश्वास मत 142 के मुकाबले 346 वोटों से हार गई; इसके बाद उन्होंने इस्तीफा दिया।",
+      "en": "Prime Minister V. P. Singh's National Front government loses a Lok Sabha confidence vote 142–346 and resigns, after the BJP withdrew support over the Ram Rath Yatra.",
+      "source": "Wikipedia / NYT"
+    },
+    {
+      "year": "1996",
+      "hi": "नासा ने मार्स ग्लोबल सर्वेयर अंतरिक्ष यान प्रक्षेपित किया, जिसने मंगल की सतह का अब तक का सबसे विस्तृत नक्शा तैयार किया।",
+      "en": "NASA launches the Mars Global Surveyor, which went on to map the surface of Mars in unprecedented detail.",
+      "source": "Wikipedia"
+    },
+    {
+      "year": "2000",
+      "hi": "अमेरिकी राष्ट्रपति चुनाव में जॉर्ज डब्ल्यू. बुश और अल गोर के बीच वोटों का अंतर इतना कम रहा कि फ्लोरिडा में मतगणना का विवाद सुप्रीम कोर्ट तक पहुंचा।",
+      "en": "The US presidential election between George W. Bush and Al Gore ends so narrowly that Florida's recount dispute goes all the way to the Supreme Court.",
+      "source": "Wikipedia"
+    },
+    {
+      "year": "2011",
+      "hi": "मुक्केबाज़ी के पूर्व विश्व हैवीवेट चैंपियन जो फ्रेज़ियर का निधन हुआ, जो मुहम्मद अली के साथ 'फाइट ऑफ़ द सेंचुरी' के लिए याद किए जाते हैं।",
+      "en": "Former world heavyweight boxing champion Joe Frazier dies; he is remembered for the 'Fight of the Century' against Muhammad Ali.",
+      "source": "onthisday.com"
+    },
+    {
+      "year": "2015",
+      "hi": "सिंगापुर में चीन के राष्ट्रपति शी जिनपिंग और ताइवान के मा यिंग-जेओ की मुलाकात हुई — 1949 के बाद दोनों पक्षों के नेताओं की पहली बैठक।",
+      "en": "Chinese President Xi Jinping and Taiwanese leader Ma Ying-jeou meet in Singapore — the first such meeting of leaders from both sides since 1949.",
+      "source": "Wikipedia"
+    },
+    {
+      "year": "2023",
+      "hi": "पुर्तगाल के प्रधानमंत्री एंटोनियो कोस्टा ने भ्रष्टाचार की जांच के बीच इस्तीफा दे दिया, जिससे देश में समय से पहले चुनाव की राह खुली।",
+      "en": "Portuguese Prime Minister António Costa resigns amid a corruption investigation, paving the way for an early general election.",
+      "source": "Wikipedia"
     }
   ]
 }
