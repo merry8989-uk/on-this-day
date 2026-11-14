@@ -1,130 +1,185 @@
 {
-  "date": "2026-11-14",
-  "events": [
-    {
-      "year": "-332",
-      "en": "Alexander the Great is crowned pharaoh of Egypt.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "565",
-      "en": "Justin II becomes Byzantine emperor following the death of emperor Justinian I.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1680",
-      "en": "German astronomer Gottfried Kirch discovered the Great Comet of 1680, the first comet to be discovered by telescope.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1680",
-      "en": "German astronomer Gottfried Kirch discovers the Great Comet of 1680, the first comet to be discovered by telescope.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1715",
-      "en": "Hanoverian forces defeat the Jacobite rebels in the battle of Preston, ending the Jacobite rising of 1715.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1770",
-      "en": "James Bruce discovers what he believes to be the source of the Nile.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1812",
-      "en": "Napoleonic Wars: At the Battle of Smoliani, French Marshals Victor and Oudinot are defeated by the Russians under General Peter Wittgenstein.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1851",
-      "en": "Moby-Dick, a novel by American writer Herman Melville (pictured), was first published in the United States.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1851",
-      "en": "Moby-Dick, a novel by Herman Melville, is published in the USA.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1889",
-      "en": "Pioneering female journalist Nellie Bly (aka Elizabeth Cochrane) begins a successful attempt to travel around the world in less than 80 days. She completes the trip in 72 days.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1910",
-      "en": "Aviator Eugene Burton Ely performed the first takeoff from a ship (pictured), flying from a makeshift deck on USS Birmingham in Hampton Roads, Virginia.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1910",
-      "en": "Aviator Eugene Burton Ely performs the first takeoff from a ship in Hampton Roads, Virginia, taking off from a makeshift deck on the USS Birmingham in a Curtiss pusher.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1914",
-      "en": "The Joensuu City Hall, designed by Eliel Saarinen, was inaugurated in Joensuu, Finland.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1918",
-      "en": "The Provisional National Assembly of the new republic of Czechoslovakia meets to devise a constitution.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1920",
-      "en": "Pesäpallo, the Finnish version of baseball developed by Lauri Pihkala, is played for the first time at Kaisaniemi Park in Helsinki.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1921",
-      "en": "The Communist Party of Spain is founded, and issues the first edition of Mundo obrero.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1922",
-      "en": "The British Broadcasting Company begins radio service in the United Kingdom.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1938",
-      "en": "The Lions Gate Bridge, connecting Vancouver to the North Shore region, opens to traffic.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1940",
-      "en": "World War II: In England, Coventry is heavily bombed by German Luftwaffe bombers. Coventry Cathedral is almost completely destroyed.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1941",
-      "en": "World War II: German troops, aided by local auxiliaries, murdered nine thousand residents of the Słonim Ghetto in a single day.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1941",
-      "en": "Second World War: After suffering torpedo damage the previous day, the British aircraft carrier HMS Ark Royal sank as she was being towed to Gibraltar for repairs.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1941",
-      "en": "World War II: The aircraft carrier HMS Ark Royal sinks due to torpedo damage from the German submarine U-81 sustained on November 13.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1941",
-      "en": "World War II: German troops, aided by local auxiliaries, murder nine thousand residents of the Słonim Ghetto in a single day.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1952",
-      "en": "The New Musical Express publishes the first regular UK Singles Chart.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1957",
-      "en": "The \"Apalachin meeting\" in rural Tioga County in upstate New York is raided by law enforcement; many high-level Mafia figures are arrested while trying to flee.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    }
-  ]
+ "date": "2026-11-14",
+ "events": [
+  {
+   "year": "332 BC",
+   "hi": "सिकंदर महान का मिस्र के फराओ के रूप में राज्याभिषेक हुआ।",
+   "en": "Alexander the Great is crowned pharaoh of Egypt.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "565",
+   "hi": "बीजान्टिन सम्राट जस्टिनियन प्रथम का निधन हुआ और जस्टिन द्वितीय सिंहासन पर बैठे।",
+   "en": "Byzantine Emperor Justinian I dies and Justin II succeeds him on the throne.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "1666",
+   "hi": "लंदन में कुत्ते से कुत्ते में रक्त-आधान का पहला प्रदर्शन किया गया, जिसे सैमुअल पेप्स ने अपनी डायरी में दर्ज किया।",
+   "en": "The first recorded blood transfusion is demonstrated in London, from one dog to another; Samuel Pepys notes it in his diary.",
+   "source": "UPI Almanac"
+  },
+  {
+   "year": "1716",
+   "hi": "दार्शनिक और गणितज्ञ गॉटफ्रीड विल्हेम लाइब्निट्स का हैनोवर में निधन हुआ।",
+   "en": "Philosopher and mathematician Gottfried Wilhelm Leibniz dies in Hanover.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "1831",
+   "hi": "जर्मन दार्शनिक जी. डब्ल्यू. एफ. हीगल का बर्लिन में हैजे से निधन हुआ।",
+   "en": "German philosopher G. W. F. Hegel dies of cholera in Berlin.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "1840",
+   "hi": "फ्रांसीसी प्रभाववादी चित्रकार क्लोद मोने का पेरिस में जन्म हुआ।",
+   "en": "French Impressionist painter Claude Monet is born in Paris.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "1851",
+   "hi": "हरमन मेलविल का प्रसिद्ध उपन्यास 'मोबी-डिक' अमेरिका में प्रकाशित हुआ।",
+   "en": "Herman Melville's novel Moby-Dick is published in the United States.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "1889",
+   "hi": "स्वतंत्र भारत के प्रथम प्रधानमंत्री जवाहरलाल नेहरू का इलाहाबाद (अब प्रयागराज) में जन्म हुआ।",
+   "en": "Jawaharlal Nehru, independent India's first Prime Minister, is born in Allahabad (now Prayagraj).",
+   "source": "The Hindu, Wikipedia"
+  },
+  {
+   "year": "1889",
+   "hi": "पत्रकार नेली ब्लाई ने 80 दिन से कम में दुनिया का चक्कर लगाने की यात्रा शुरू की और इसे 72 दिन में पूरा किया।",
+   "en": "Journalist Nellie Bly sets off to circle the world in under 80 days and completes the trip in 72.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "1891",
+   "hi": "इंसुलिन के सह-खोजकर्ता सर फ्रेडरिक बैंटिंग का जन्म हुआ; उनके जन्मदिन पर विश्व मधुमेह दिवस मनाया जाता है।",
+   "en": "Sir Frederick Banting, co-discoverer of insulin, is born; his birthday is observed as World Diabetes Day.",
+   "source": "Wikipedia, Almanac"
+  },
+  {
+   "year": "1891",
+   "hi": "भारतीय पुरावनस्पतिशास्त्री बीरबल साहनी का जन्म हुआ; लखनऊ का बीरबल साहनी पुरावनस्पति विज्ञान संस्थान उनके नाम पर है।",
+   "en": "Indian palaeobotanist Birbal Sahni is born; the Birbal Sahni Institute of Palaeosciences in Lucknow is named after him.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "1910",
+   "hi": "अमेरिकी विमानचालक यूजीन एली ने वर्जीनिया में यूएसएस बर्मिंघम के अस्थायी डेक से पहली बार जहाज से विमान उड़ाया।",
+   "en": "Aviator Eugene Ely makes the first takeoff from a ship, flying off a makeshift deck on USS Birmingham in Virginia.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "1915",
+   "hi": "अमेरिकी शिक्षाविद् और लेखक बुकर टी. वाशिंगटन का निधन हुआ।",
+   "en": "American educator and author Booker T. Washington dies.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "1922",
+   "hi": "ब्रिटिश ब्रॉडकास्टिंग कंपनी (बीबीसी) ने ब्रिटेन में नियमित रेडियो सेवा शुरू की।",
+   "en": "The British Broadcasting Company (BBC) begins its radio service in the United Kingdom.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "1940",
+   "hi": "द्वितीय विश्वयुद्ध में जर्मन वायुसेना ने इंग्लैंड के कोवेंट्री शहर पर भीषण बमबारी की; कोवेंट्री कैथेड्रल लगभग पूरी तरह नष्ट हो गया।",
+   "en": "In World War II, German bombers devastate the English city of Coventry, almost completely destroying Coventry Cathedral.",
+   "source": "Wikipedia, UPI"
+  },
+  {
+   "year": "1943",
+   "hi": "उद्योगपति आदित्य विक्रम बिरला का जन्म हुआ, जिन्होंने आदित्य बिड़ला समूह को विस्तार दिया।",
+   "en": "Industrialist Aditya Vikram Birla, who built up the Aditya Birla Group, is born.",
+   "source": "Humans of History"
+  },
+  {
+   "year": "1948",
+   "hi": "यूनाइटेड किंगडम के राजा चार्ल्स तृतीय का जन्म हुआ।",
+   "en": "Charles III, King of the United Kingdom, is born.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "1957",
+   "hi": "भारत सरकार ने विशेष अधिसूचना द्वारा 14 नवंबर को आधिकारिक रूप से बाल दिवस (बाल दिवस) घोषित किया।",
+   "en": "The Government of India, by a special order, officially declares 14 November as Children's Day (Bal Diwas).",
+   "source": "Wikipedia, The Hindu"
+  },
+  {
+   "year": "1960",
+   "hi": "छह वर्षीय रूबी ब्रिजेस संघीय मार्शलों की सुरक्षा में न्यू ऑरलियन्स के सर्व-श्वेत स्कूल में दाखिल हुईं और नागरिक अधिकार आंदोलन की प्रतीक बनीं।",
+   "en": "Six-year-old Ruby Bridges, escorted by federal marshals, enters an all-white school in New Orleans and becomes a symbol of the civil rights movement.",
+   "source": "Wikipedia, UPI"
+  },
+  {
+   "year": "1965",
+   "hi": "वियतनाम युद्ध में अमेरिकी और उत्तरी वियतनामी नियमित सैनिकों के बीच पहला बड़ा मुकाबला, 'आईए द्रांग का युद्ध', शुरू हुआ।",
+   "en": "The Battle of Ia Drang begins, the first major engagement between regular US and North Vietnamese forces.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "1969",
+   "hi": "नासा ने अपोलो 12 मिशन लॉन्च किया, जो चंद्रमा पर उतरने वाला दूसरा मानव मिशन था।",
+   "en": "NASA launches Apollo 12, the second crewed mission to land on the Moon.",
+   "source": "NASA, Wikipedia"
+  },
+  {
+   "year": "1971",
+   "hi": "अमेरिकी अंतरिक्ष यान मेरिनर 9 मंगल की कक्षा में पहुंचा और किसी अन्य ग्रह की परिक्रमा करने वाला पहला अंतरिक्ष यान बना।",
+   "en": "NASA's Mariner 9 enters orbit around Mars, becoming the first spacecraft to orbit another planet.",
+   "source": "NASA, Wikipedia"
+  },
+  {
+   "year": "1977",
+   "hi": "इस्कॉन के संस्थापक ए. सी. भक्तिवेदांत स्वामी प्रभुपाद का वृंदावन में निधन हुआ।",
+   "en": "A. C. Bhaktivedanta Swami Prabhupada, founder of ISKCON, dies in Vrindavan.",
+   "source": "Humans of History"
+  },
+  {
+   "year": "1994",
+   "hi": "इंग्लिश चैनल के नीचे बनी लगभग 50 किमी लंबी चैनल सुरंग यात्री सेवा के लिए खोली गई।",
+   "en": "The roughly 50 km Channel Tunnel under the English Channel opens to passenger traffic between England and France.",
+   "source": "UPI, Wikipedia"
+  },
+  {
+   "year": "2001",
+   "hi": "अफगानिस्तान में उत्तरी गठबंधन के लड़ाकों ने राजधानी काबुल पर नियंत्रण कर लिया।",
+   "en": "Afghan Northern Alliance fighters take over the capital, Kabul.",
+   "source": "Wikipedia"
+  },
+  {
+   "year": "2008",
+   "hi": "चंद्रयान-1 से छोड़ा गया 'मून इम्पैक्ट प्रोब' चंद्रमा की सतह से टकराया और भारत चंद्रमा तक पहुंचने वाला पांचवां देश बना; इस स्थल का नाम 'जवाहर स्थल' रखा गया।",
+   "en": "The Moon Impact Probe released by Chandrayaan-1 strikes the lunar surface near the south pole, making India the fifth country to reach the Moon; the site was named 'Jawahar Sthal'.",
+   "source": "ISRO, Wikipedia"
+  },
+  {
+   "year": "2016",
+   "hi": "न्यूजीलैंड के काइकौरा में 7.8 तीव्रता का शक्तिशाली भूकंप आया।",
+   "en": "A powerful magnitude 7.8 earthquake strikes Kaikoura, New Zealand.",
+   "source": "Wikipedia"
+  }
+ ],
+ "exam_picks": [
+  {
+   "hi": "1889 – जवाहरलाल नेहरू का जन्म: स्वतंत्र भारत के प्रथम प्रधानमंत्री; जन्म-स्थान, कार्यकाल (1947-1964) और बाल दिवस से जुड़ाव बार-बार पूछा जाता है।",
+   "en": "1889 – Birth of Jawaharlal Nehru: first Prime Minister of independent India; his birthplace, tenure (1947-1964) and Children's Day link are frequently asked."
+  },
+  {
+   "hi": "1957 – बाल दिवस की आधिकारिक घोषणा: राष्ट्रीय दिवसों से जुड़े प्रश्नों में 14 नवंबर और 'चाचा नेहरू' का उल्लेख सामान्य है।",
+   "en": "1957 – Children's Day officially declared: questions on national days routinely link 14 November with 'Chacha Nehru'."
+  },
+  {
+   "hi": "1971 – मेरिनर 9: किसी अन्य ग्रह की कक्षा में पहुंचने वाला पहला अंतरिक्ष यान; अंतरिक्ष विज्ञान के प्रश्नों में महत्वपूर्ण।",
+   "en": "1971 – Mariner 9: first spacecraft to orbit another planet; a standard space-science question."
+  },
+  {
+   "hi": "2008 – चंद्रयान-1 का मून इम्पैक्ट प्रोब: चंद्रमा पर भारत का पहला प्रयोग, 'जवाहर स्थल' नाम और जल की खोज — ISRO से जुड़े प्रश्नों का पसंदीदा विषय।",
+   "en": "2008 – Chandrayaan-1's Moon Impact Probe: India's first experiment on the Moon, the name 'Jawahar Sthal' and the water discovery are favourites in ISRO questions."
+  }
+ ]
 }
