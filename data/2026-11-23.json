@@ -1,130 +1,161 @@
 {
-  "date": "2026-11-23",
-  "events": [
-    {
-      "year": "-534",
-      "en": "Thespis of Icaria becomes the first recorded actor to portray a character on stage.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "375",
-      "en": "16-year-old Gratian is proclaimed augustus following the death of his father Valentinian I, though a couple of days later his half-brother Valentinian is also proclaimed augustus and becomes his co-ruler.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "602",
-      "en": "Phocas is crowned Byzantine emperor after a rebellion of the Thracian army against reigning emperor Maurice and after Phocas' rival Germanus has been rebuffed by the Greens.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1059",
-      "en": "Constantine X Doukas becomes Byzantine emperor, with his son Michael as nominal co-emperor and Michael Psellos as chief minister.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1248",
-      "en": "Conquest of Seville by Christian troops under King Ferdinand III of Castile.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1499",
-      "en": "Seven days after being convicted of treason, Perkin Warbeck, a pretender to the throne of England, is hanged for attempting to escape from the Tower of London; his supporter John Atwater is executed with him.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1589",
-      "en": "Marriage of king James VI of Scotland and Anne of Denmark.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1635",
-      "en": "Dutch pacification campaign on Formosa: Soldiers from the Dutch East India Company (flag depicted) razed the village of Mattau, now part of modern-day Tainan, Taiwan.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1644",
-      "en": "In opposition to licensing and censorship during the English Civil War, John Milton's Areopagitica was published, arguing for the right to free expression.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1644",
-      "en": "John Milton publishes Areopagitica, a pamphlet decrying censorship.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1700",
-      "en": "A papal conclave, which had been deadlocked due to concerns over how a successor would respond to the impending death of Charles II of Spain, ended with the election of Clement XI.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1733",
-      "en": "African slaves in the Danish West Indies began an insurrection in one of the earliest and longest slave revolts in the Americas.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1733",
-      "en": "The start of the 1733 slave insurrection on St. John in what was then the Danish West Indies.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1808",
-      "en": "French and Poles defeat the Spanish at Battle of Tudela.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1863",
-      "en": "American Civil War: Battle of Chattanooga begins: Union forces led by General Ulysses S. Grant reinforce troops at Chattanooga, Tennessee, and counter-attack Confederate troops.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1867",
-      "en": "The Manchester Martyrs were hanged in Manchester, England, for involvement in a scheme to free two Irish nationalists from custody in which a police officer was killed.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1867",
-      "en": "The Manchester Martyrs are hanged in Manchester, England, for killing a police officer while freeing two Irish Republican Brotherhood members from custody.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1876",
-      "en": "William \"Boss\" Tweed, a New York City politician who had been arrested for embezzlement, was handed over to US authorities after having escaped from prison and fled to Spain.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1876",
-      "en": "Corrupt Tammany Hall leader William Magear Tweed (better known as Boss Tweed) is delivered to authorities in New York City after being captured in Spain.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1890",
-      "en": "King William III of the Netherlands dies without a male heir and a special law is passed to allow his daughter Princess Wilhelmina to succeed him.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1910",
-      "en": "Johan Alfred Ander becomes the last person to be executed in Sweden.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1914",
-      "en": "Mexican Revolution: The last of U.S. forces withdraw from Veracruz, occupied seven months earlier in response to the Tampico Affair.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1921",
-      "en": "Warren G. Harding, 29th President of the United States, signs the Willis–Campbell Act into law, prohibiting doctors from prescribing beer or liquor for medicinal purposes.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1923",
-      "en": "Thousands of Irish Republicans end the 1923 Irish hunger strikes, five  die from starvation.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "1924",
-      "en": "The New York Times published evidence from Edwin Hubble (pictured) stating that the Andromeda Nebula, previously believed to be part of the Milky Way, is in fact another galaxy.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    }
-  ]
+ "date": "2026-11-23",
+ "events": [
+  {
+   "year": "1248",
+   "hi": "1248 – कैस्टिल के राजा फर्डिनेंड III के नेतृत्व में ईसाई सेना ने सेविला पर अधिकार कर लिया, जिससे रिकॉन्क्विस्टा को बड़ी सफलता मिली।",
+   "en": "1248 – Christian forces under King Ferdinand III of Castile captured Seville, a major gain in the Reconquista.",
+   "source": "Wikipedia – November 23"
+  },
+  {
+   "year": "1499",
+   "hi": "1499 – इंग्लैंड के सिंहासन के दावेदार पर्किन वारबेक को राजद्रोह के आरोप में फांसी दी गई।",
+   "en": "1499 – Perkin Warbeck, a pretender to the English throne, was hanged after being convicted of treason.",
+   "source": "Wikipedia – November 23"
+  },
+  {
+   "year": "1644",
+   "hi": "1644 – जॉन मिल्टन ने सेंसरशिप और प्रेस-लाइसेंसिंग के विरुद्ध अपना प्रसिद्ध पैम्फलेट 'एरियोपैजिटिका' प्रकाशित किया।",
+   "en": "1644 – John Milton published Areopagitica, his celebrated pamphlet against censorship and press licensing.",
+   "source": "Wikipedia – November 23"
+  },
+  {
+   "year": "1857",
+   "hi": "1857 – प्रथम स्वतंत्रता संग्राम के दौरान सर कॉलिन कैंपबेल के नेतृत्व में ब्रिटिश सेना ने लखनऊ पर पुनः नियंत्रण स्थापित किया।",
+   "en": "1857 – During the First War of Independence, British forces under Sir Colin Campbell retook Lucknow.",
+   "source": "Dainik Jagran / NBT"
+  },
+  {
+   "year": "1867",
+   "hi": "1867 – आयरिश रिपब्लिकन बंधुओं को छुड़ाने के प्रयास में एक पुलिसकर्मी की हत्या के आरोप में तीन देशभक्तों को मैनचेस्टर में फांसी दी गई; वे 'मैनचेस्टर शहीद' कहलाए।",
+   "en": "1867 – Three Irish Republicans were hanged in Manchester for the killing of a policeman during a rescue attempt; they became the 'Manchester Martyrs'.",
+   "source": "Wikipedia – November 23"
+  },
+  {
+   "year": "1887",
+   "hi": "1887 – ब्रिटिश अभिनेता बोरिस कार्लॉफ का जन्म, जो फ्रैंकेंस्टीन के राक्षस के किरदार के लिए विश्वविख्यात हुए।",
+   "en": "1887 – Actor Boris Karloff, forever linked to Frankenstein's monster, was born in London.",
+   "source": "Britannica"
+  },
+  {
+   "year": "1889",
+   "hi": "1889 – सैन फ्रांसिस्को के एक सैलून में दुनिया का पहला सिक्का-चालित फोनोग्राफ (ज्यूकबॉक्स) लगाया गया।",
+   "en": "1889 – The world's first coin-operated phonograph, the ancestor of the jukebox, was installed in a San Francisco saloon.",
+   "source": "Computer History Museum"
+  },
+  {
+   "year": "1897",
+   "hi": "1897 – अंग्रेज़ी लेखक नीरद सी. चौधरी का जन्म, जिनकी 'द ऑटोबायोग्राफी ऑफ एन अननोन इंडियन' बहुचर्चित रही।",
+   "en": "1897 – Writer Nirad C. Chaudhuri, author of 'The Autobiography of an Unknown Indian', was born in Kishoreganj.",
+   "source": "Observer Voice"
+  },
+  {
+   "year": "1912",
+   "hi": "1912 – क्रांतिकारी लेखक, इतिहासकार और पत्रकार सखाराम गणेश देउसकर का निधन; बंगाल में उन्हें 'बंगाल का तिलक' कहा जाता था।",
+   "en": "1912 – Revolutionary writer and journalist Sakharam Ganesh Deuskar, known as the 'Tilak of Bengal', died.",
+   "source": "Observer Voice"
+  },
+  {
+   "year": "1914",
+   "hi": "1914 – हिंदी-उर्दू के प्रसिद्ध कथाकार कृश्न चंदर का जन्म; उन्हें 1969 में पद्म भूषण मिला।",
+   "en": "1914 – Hindi–Urdu short-story writer Krishan Chander, a Padma Bhushan awardee, was born in Wazirabad.",
+   "source": "Observer Voice"
+  },
+  {
+   "year": "1919",
+   "hi": "1919 – दिल्ली में प्रथम अखिल भारतीय खिलाफत सम्मेलन हुआ, जिसमें गांधीजी ने खिलाफत आंदोलन का समर्थन किया; यह असहयोग आंदोलन की भूमिका बना।",
+   "en": "1919 – The first All-India Khilafat Conference met in Delhi; Gandhi's backing helped set the stage for the Non-Cooperation Movement.",
+   "source": "Editorialge / Indiaonlinepages"
+  },
+  {
+   "year": "1924",
+   "hi": "1924 – एडविन हबल की खोज प्रकाशित हुई कि एंड्रोमेडा 'नेबुला' हमारी आकाशगंगा के बाहर की अलग गैलेक्सी है।",
+   "en": "1924 – Edwin Hubble's discovery that the Andromeda 'nebula' is a separate galaxy outside the Milky Way was published.",
+   "source": "Wikipedia – November 23"
+  },
+  {
+   "year": "1926",
+   "hi": "1926 – आध्यात्मिक गुरु सत्य साईं बाबा का जन्म आंध्र प्रदेश के पुट्टपर्ती में हुआ।",
+   "en": "1926 – Spiritual leader Sathya Sai Baba was born at Puttaparthi in present-day Andhra Pradesh.",
+   "source": "Dainik Jagran"
+  },
+  {
+   "year": "1930",
+   "hi": "1930 – हिंदी सिनेमा की प्रसिद्ध पार्श्वगायिका गीता दत्त का जन्म; 'प्यासा' और 'आर-पार' के गीत आज भी लोकप्रिय हैं।",
+   "en": "1930 – Playback singer Geeta Dutt was born in Faridpur; her songs from 'Pyaasa' and 'Aar-Paar' remain classics.",
+   "source": "Observer Voice"
+  },
+  {
+   "year": "1937",
+   "hi": "1937 – महान वैज्ञानिक सर जगदीश चंद्र बोस का निधन; उन्होंने रेडियो तरंगों और पौधों की संवेदनशीलता पर अग्रणी कार्य किया और कोलकाता में बोस इंस्टीट्यूट की स्थापना की।",
+   "en": "1937 – Scientist Sir Jagadish Chandra Bose died; he pioneered work on radio waves and plant response, and founded the Bose Institute in Kolkata.",
+   "source": "Observer Voice / Editorialge"
+  },
+  {
+   "year": "1948",
+   "hi": "1948 – 1947-48 के भारत-पाक युद्ध में भारतीय सेना ने जम्मू के पुंछ में वर्षभर से घिरी सेना की घेराबंदी तोड़ दी।",
+   "en": "1948 – During the 1947-48 India-Pakistan war, the Indian Army relieved the besieged garrison of Poonch in Jammu.",
+   "source": "Indiaonlinepages / Editorialge"
+  },
+  {
+   "year": "1963",
+   "hi": "1963 – बीबीसी पर साइंस फिक्शन धारावाहिक 'डॉक्टर हू' का पहला एपिसोड प्रसारित हुआ, जो आज दुनिया का सबसे लंबा चलने वाला साइंस फिक्शन शो है।",
+   "en": "1963 – The first episode of Doctor Who was broadcast by the BBC; it is now the world's longest-running science-fiction drama.",
+   "source": "Wikipedia – November 23"
+  },
+  {
+   "year": "1971",
+   "hi": "1971 – बांग्लादेश मुक्ति संग्राम में दिनाजपुर के हिली में भीषण युद्ध शुरू हुआ, जिसने भारतीय सेना की 'बायपास रणनीति' को जन्म दिया।",
+   "en": "1971 – The fierce Battle of Hilli began in Dinajpur during the Bangladesh Liberation War, leading to the 'Bypass Doctrine'.",
+   "source": "Editorialge"
+  },
+  {
+   "year": "1983",
+   "hi": "1983 – नई दिल्ली में पहली बार राष्ट्रमंडल शासनाध्यक्षों की बैठक (CHOGM) शुरू हुई; मेज़बानी प्रधानमंत्री इंदिरा गांधी ने की।",
+   "en": "1983 – India hosted the Commonwealth Heads of Government Meeting (CHOGM) in New Delhi for the first time, with Indira Gandhi as host.",
+   "source": "Dainik Jagran / Indiaonlinepages"
+  },
+  {
+   "year": "1990",
+   "hi": "1990 – 'चार्ली एंड द चॉकलेट फैक्ट्री' और 'मैटिल्डा' के लेखक रोआल्ड डाल का निधन।",
+   "en": "1990 – Roald Dahl, author of 'Charlie and the Chocolate Factory' and 'Matilda', died in Oxford.",
+   "source": "Britannica"
+  },
+  {
+   "year": "1991",
+   "hi": "1991 – क्वीन बैंड के गायक फ्रेडी मर्करी ने सार्वजनिक रूप से एचआईवी पॉजिटिव होने की घोषणा की; अगले ही दिन उनका निधन हो गया।",
+   "en": "1991 – Queen's Freddie Mercury announced publicly that he had AIDS; he died the next day.",
+   "source": "Wikipedia – November 23"
+  },
+  {
+   "year": "1992",
+   "hi": "1992 – लास वेगास के COMDEX में आईबीएम साइमन पेश हुआ, जिसे दुनिया का पहला स्मार्टफोन माना जाता है।",
+   "en": "1992 – IBM Simon, widely regarded as the first smartphone, was unveiled at COMDEX in Las Vegas.",
+   "source": "Computer History Museum"
+  },
+  {
+   "year": "2005",
+   "hi": "2005 – एलेन जॉनसन सरलीफ लाइबेरिया की राष्ट्रपति चुनी गईं और किसी अफ्रीकी देश की नेतृत्व करने वाली पहली महिला बनीं।",
+   "en": "2005 – Ellen Johnson Sirleaf was elected president of Liberia, becoming the first woman to lead an African country.",
+   "source": "Wikipedia – November 23"
+  },
+  {
+   "year": "2015",
+   "hi": "2015 – ब्लू ओरिजिन का 'न्यू शेपर्ड' अंतरिक्ष तक पहुंचकर नियंत्रित ऊर्ध्वाधर लैंडिंग करने वाला पहला रॉकेट बना।",
+   "en": "2015 – Blue Origin's New Shepard became the first rocket to fly to space and land back vertically under control.",
+   "source": "Wikipedia – November 23"
+  },
+  {
+   "year": "2020",
+   "hi": "2020 – ऑक्सफोर्ड-एस्ट्राजेनेका ने बताया कि उसका कोविड-19 टीका बड़े ट्रायल में औसतन लगभग 70% प्रभावी रहा, जो कोविशील्ड के रूप में भारत में इस्तेमाल हुआ।",
+   "en": "2020 – Oxford-AstraZeneca reported its COVID-19 vaccine was about 70% effective on average; it later reached India as Covishield.",
+   "source": "History Snacks / Hisdates"
+  },
+  {
+   "year": "2023",
+   "hi": "2023 – भारत के सर्वोच्च न्यायालय की पहली महिला न्यायाधीश न्यायमूर्ति एम. फातिमा बीवी का निधन; वे केरल की राज्यपाल भी रहीं।",
+   "en": "2023 – Justice M. Fathima Beevi, the first woman judge of India's Supreme Court and a former Kerala Governor, died.",
+   "source": "Dainik Jagran"
+  }
+ ]
 }
