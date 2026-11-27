@@ -2,129 +2,154 @@
   "date": "2026-11-27",
   "events": [
     {
-      "year": "25",
-      "en": "Luoyang is declared capital of the Eastern Han dynasty by Emperor Guangwu of Han.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "176",
-      "en": "Emperor Marcus Aurelius grants his son Commodus the rank of \"Imperator\" and makes him Supreme Commander of the Roman legions.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "395",
-      "en": "Rufinus, praetorian prefect of the East, is murdered by Gothic mercenaries under Gainas.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "399",
-      "en": "Election of pope Anastasius I following the death of pope Siricius the day prior.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "511",
-      "en": "King Clovis I dies at Lutetia and is buried in the Abbey of Saint Genevieve.",
-      "source": "Wikipedia (Wikimedia On this day)"
-    },
-    {
-      "year": "602",
-      "en": "Byzantine Emperor Maurice and his sons are beheaded by officers of the usurper Phocas and subsequently burried at the monastery of St. Mamas.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1001",
+      "hi": "हिंदू शाही शासक जयपाल को पेशावर के पास महमूद गजनवी ने हराया, जिससे भारत में गजनवी आक्रमणों का मार्ग प्रशस्त हुआ।",
+      "en": "Hindu Shahi ruler Jayapala was defeated by Mahmud of Ghazni near Peshawar, opening the way for Ghaznavid invasions of India.",
+      "source": "India On This Day; Wikipedia"
     },
     {
       "year": "1095",
-      "en": "Pope Urban II declares the First Crusade at the Council of Clermont.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "hi": "क्लेरमॉन्ट की परिषद में पोप अर्बन द्वितीय ने प्रथम क्रूसेड का आह्वान किया।",
+      "en": "At the Council of Clermont, Pope Urban II called for the First Crusade.",
+      "source": "Wikipedia; History.com"
     },
     {
-      "year": "1161",
-      "en": "Jin–Song wars: A Song fleet, equiped with trebuchets that launched incendiary bombs, defeated Jin ships in a naval engagement on the Yangtze River.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1701",
+      "hi": "स्वीडिश खगोलशास्त्री एंडर्स सेल्सियस, जिन्होंने दुनिया को सेल्सियस तापमान पैमाना दिया, का जन्म उप्सला में हुआ था।",
+      "en": "Anders Celsius, the Swedish astronomer who gave the world the Celsius temperature scale, was born in Uppsala.",
+      "source": "Britannica"
     },
     {
-      "year": "1237",
-      "en": "Frederick II, Holy Roman Emperor, defeats the Lombard League in the battle of Cortenuova.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1795",
+      "hi": "रूसी साहसी गेरासिम लेबेदेव ने कलकत्ता में पहली बंगाली भाषा की प्रोसेनियम नाटक का मंचन किया, जो आधुनिक भारतीय रंगमंच की शुरुआत का प्रतीक है।",
+      "en": "Russian adventurer Gerasim Lebedev staged the first Bengali-language proscenium play in Calcutta, marking the beginning of modern Indian theatre.",
+      "source": "Banglapedia; Wikipedia"
     },
     {
-      "year": "1382",
-      "en": "Al-Salih Hajji, the last Qalawunid sultan, is deposed by Barquq, ending the long Turkic Bahri Mamluk period in general and particularly the Qalawunid dynasty, and beginning the reign of the Circassian Burji Mamluk.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1874",
+      "hi": "रसायनज्ञ और इज़राइल के पहले राष्ट्रपति चैम वीज़मैन का जन्म वर्तमान बेलारूस के मोतोले में हुआ था।",
+      "en": "Chaim Weizmann, chemist and the first President of Israel, was born in Motol, in present-day Belarus.",
+      "source": "Britannica"
     },
     {
-      "year": "1542",
-      "en": "Palace plot of Renyin year: A group of Ming dynasty palace women fail to murder the Jiajing Emperor, and are executed by slow-slicing.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1881",
+      "hi": "इतिहासकार और विद्वान काशी प्रसाद जायसवाल का जन्म मिर्ज़ापुर, उत्तर प्रदेश में हुआ था।",
+      "en": "Historian and scholar Kashi Prasad Jayaswal was born in Mirzapur, Uttar Pradesh.",
+      "source": "India On This Day"
     },
     {
-      "year": "1703",
-      "en": "The great storm of 1703, one of the most severe storms to strike southern Great Britain, destroyed the first Eddystone Lighthouse off Plymouth.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1888",
+      "hi": "स्वतंत्र भारत के लोकसभा के पहले अध्यक्ष गणेश वासुदेव मावलंकर का जन्म बड़ौदा में हुआ था।",
+      "en": "Ganesh Vasudeo Mavalankar, independent India's first Speaker of the Lok Sabha, was born in Baroda.",
+      "source": "India On This Day; Lok Sabha records"
     },
     {
-      "year": "1727",
-      "en": "The foundation stone to the Jerusalem Church in Berlin is laid.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1895",
+      "hi": "अल्फ्रेड नोबेल ने पेरिस में अपनी अंतिम वसीयत पर हस्ताक्षर किए, जिसमें उन्होंने अपनी संपत्ति को नोबेल पुरस्कारों के लिए अलग रखा।",
+      "en": "Alfred Nobel signed his last will in Paris, setting aside his fortune for the Nobel Prizes.",
+      "source": "Wikipedia; USA Today"
     },
     {
-      "year": "1755",
-      "en": "An earthquake in northern Morocco devastates the cities of Fes and Meknes.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1907",
+      "hi": "हिंदी कवि हरिवंश राय बच्चन, मधुशाला के लेखक, का जन्म इलाहाबाद में हुआ था।",
+      "en": "Hindi poet Harivanshrai Bachchan, author of Madhushala, was born in Allahabad.",
+      "source": "India On This Day"
     },
     {
-      "year": "1809",
-      "en": "The Berners Street hoax is perpetrated by Theodore Hook in the City of Westminster, London.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1924",
+      "hi": "पहली मैसी थैंक्सगिविंग डे परेड न्यूयॉर्क शहर में आयोजित की गई थी।",
+      "en": "The first Macy's Thanksgiving Day Parade was held in New York City.",
+      "source": "Wikipedia"
     },
     {
-      "year": "1815",
-      "en": "Adoption of the Constitution of the Kingdom of Poland.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1940",
+      "hi": "मार्शल आर्टिस्ट और फिल्म स्टार ब्रूस ली का जन्म सैन फ्रांसिस्को में हुआ था।",
+      "en": "Bruce Lee, martial artist and film star, was born in San Francisco.",
+      "source": "Britannica"
     },
     {
-      "year": "1830",
-      "en": "Saint Catherine Labouré experiences a Marian apparition.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1942",
+      "hi": "टूलॉन में फ्रांसीसी बेड़े को नाजी हाथों से बचाने के लिए उसके अपने नाविकों द्वारा डुबो दिया गया था।",
+      "en": "The French fleet at Toulon was scuttled by its own sailors to keep it out of Nazi hands.",
+      "source": "Wikipedia; NYT On This Day"
     },
     {
-      "year": "1835",
-      "en": "James Pratt and John Smith became the last people to be executed in England for sodomy.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1942",
+      "hi": "रॉक गिटारवादक जिमी हेंड्रिक्स का जन्म सिएटल में हुआ था।",
+      "en": "Rock guitarist Jimi Hendrix was born in Seattle.",
+      "source": "Britannica"
     },
     {
-      "year": "1835",
-      "en": "James Pratt and John Smith are hanged in London; they are the last two to be executed for sodomy in England.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1952",
+      "hi": "गायक-संगीतकार बप्पी लाहिड़ी का जन्म जलपाईगुड़ी, पश्चिम बंगाल में हुआ था।",
+      "en": "Singer-composer Bappi Lahiri was born in Jalpaiguri, West Bengal.",
+      "source": "Observer Voice"
     },
     {
-      "year": "1839",
-      "en": "In Boston, Massachusetts, the American Statistical Association is founded.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1962",
+      "hi": "भारत-चीन युद्ध के दौरान, ब्रिटेन भारत को हथियार सप्लाई करने के लिए सहमत हुआ।",
+      "en": "During the India-China war, Britain agreed to supply arms to India.",
+      "source": "India On This Day"
     },
     {
-      "year": "1840",
-      "en": "Muhammad Ali of Egypt accepts the London Convention of 1840 in which he  renounces his claims to Syria, Crete, and Hejaz in exchange for recognition of his hereditary rule of Egypt and Syria.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1968",
+      "hi": "पेनी एन अर्ली केंटकी कर्नल्स के लिए खेलते हुए, पुरुषों की प्रमुख पेशेवर बास्केटबॉल लीग में खेलने वाली पहली महिला बनीं।",
+      "en": "Penny Ann Early became the first woman to play in a major men's professional basketball league, turning out for the Kentucky Colonels.",
+      "source": "Wikipedia"
     },
     {
-      "year": "1856",
-      "en": "William III (pictured) unilaterally revised the constitution of Luxembourg, greatly expanding his powers as grand duke.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1971",
+      "hi": "सोवियत संघ का मार्स 2 लैंडर मंगल ग्रह की सतह पर पहुंचा, जो वहां पहुंचने वाली पहली मानव निर्मित वस्तु थी, हालांकि यह लैंडिंग के दौरान दुर्घटनाग्रस्त हो गया।",
+      "en": "The Soviet Mars 2 lander reached the surface of Mars, the first man-made object to get there, though it crashed on landing.",
+      "source": "NASA; Wikipedia"
     },
     {
-      "year": "1856",
-      "en": "The Coup of 1856 leads to Luxembourg's unilateral adoption of a new, reactionary constitution.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1972",
+      "hi": "पाकिस्तान के प्रधान मंत्री जुल्फिकार अली भुट्टो ने 1971 से बंदी 616 भारतीय युद्धबंदियों की रिहाई की घोषणा की।",
+      "en": "Pakistan's Prime Minister Zulfikar Ali Bhutto announced the release of 616 Indian prisoners of war held since 1971.",
+      "source": "India On This Day"
     },
     {
-      "year": "1863",
-      "en": "American Civil War: Confederate cavalry leader John Hunt Morgan and several of his men escape the Ohio Penitentiary and return safely to the South.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1978",
+      "hi": "सैन फ्रांसिस्को के मेयर जॉर्ज मोस्कोन और पर्यवेक्षक हार्वे मिल्क की हत्या पूर्व पर्यवेक्षक डैन व्हाइट ने कर दी थी।",
+      "en": "San Francisco mayor George Moscone and supervisor Harvey Milk were assassinated by former supervisor Dan White.",
+      "source": "Wikipedia; HISTORY"
     },
     {
-      "year": "1863",
-      "en": "American Civil War: Battle of Mine Run: Union forces under General George Meade take up positions against troops led by Confederate General Robert E. Lee.",
-      "source": "Wikipedia (Wikimedia On this day)"
+      "year": "1984",
+      "hi": "बॉम्बे में ब्रिटिश उप उच्चायुक्त पर्सी नॉरिस की शहर में हत्या कर दी गई थी।",
+      "en": "Percy Norris, the British Deputy High Commissioner in Bombay, was assassinated in the city.",
+      "source": "India On This Day; news archives"
+    },
+    {
+      "year": "1999",
+      "hi": "हेलन क्लार्क न्यूजीलैंड की पहली निर्वाचित महिला प्रधानमंत्री बनीं।",
+      "en": "Helen Clark became New Zealand's first elected woman Prime Minister.",
+      "source": "Wikipedia"
+    },
+    {
+      "year": "2001",
+      "hi": "हबल स्पेस टेलीस्कोप ने ओसिरिस एक्सोप्लैनेट के चारों ओर एक वायुमंडल का पता लगाया, जो सौर मंडल के बाहर ऐसी पहली खोज थी।",
+      "en": "The Hubble Space Telescope detected an atmosphere around the exoplanet Osiris, the first such detection outside the Solar System.",
+      "source": "NASA; timeanddate"
+    },
+    {
+      "year": "2005",
+      "hi": "फ्रांसीसी सर्जनों ने इसाबेल डिनोयर पर दुनिया का पहला आंशिक चेहरा प्रत्यारोपण किया।",
+      "en": "French surgeons performed the world's first partial face transplant, on Isabelle Dinoire.",
+      "source": "timeanddate; news archives"
+    },
+    {
+      "year": "2008",
+      "hi": "पूर्व प्रधान मंत्री वी. पी. सिंह, जिनकी सरकार ने मंडल आयोग की रिपोर्ट लागू की थी, का नई दिल्ली में निधन हो गया।",
+      "en": "Former Prime Minister V. P. Singh, whose government implemented the Mandal Commission report, died in New Delhi.",
+      "source": "Observer Voice; news archives"
+    },
+    {
+      "year": "2020",
+      "hi": "ईरान के शीर्ष परमाणु वैज्ञानिक मोहसिन फखरिज़ादेह की तेहरान के पास हत्या कर दी गई थी।",
+      "en": "Iran's top nuclear scientist Mohsen Fakhrizadeh was assassinated near Tehran.",
+      "source": "Wikipedia; news archives"
     }
   ]
 }
